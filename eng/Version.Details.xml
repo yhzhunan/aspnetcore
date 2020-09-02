@@ -241,7 +241,7 @@
       <Uri>https://github.com/dotnet/runtime</Uri>
       <Sha>3802520ce6951111092039fe5b365985d9677708</Sha>
     </Dependency>
-    <!-- System.Security.AccessControl should only be referenced in Dependencies.props and RTMVersions.csproj. -->
+    <!-- System.Security.AccessControl should only be referenced in Dependencies.props and RepoTasks.csproj. -->
     <Dependency Name="System.Security.AccessControl" Version="5.0.0-rc.2.20460.10">
       <Uri>https://github.com/dotnet/runtime</Uri>
       <Sha>3802520ce6951111092039fe5b365985d9677708</Sha>
